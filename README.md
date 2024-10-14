@@ -34,10 +34,10 @@ Identificar el nivel educativo, sede y programa educativo con mayor crecimiento 
   3.- El alumno está repartido equitativamente en todas las sedes y niveles educativos.
 - Plan de desarrollo: 
 Como se describió anteriormente, la etapa inicial consistió en la limpieza exhaustiva de datos en Excel, con el objetivo de garantizar la calidad y confiabilidad de la información. Para ello, se establecieron cuatro sencillos pero contundentes criterios:
--     Identificación y eliminación de datos nulos en variables significativas.
--     Corrección de valores atípicos fuera de un rango razonable.
--     Eliminación de valores duplicados en el alumnado.
--      Verificación de la consistencia en los datos, asegurando que cada registro pertenezca a la categoría
+- Identificación y eliminación de datos nulos en variables significativas.
+- Corrección de valores atípicos fuera de un rango razonable.
+- Eliminación de valores duplicados en el alumnado.
+- Verificación de la consistencia en los datos, asegurando que cada registro pertenezca a la categoría
 En seguida, se realizó un análisis exploratorio de los datos utilizando R, que incluyó la visualización del efecto de la pandemia. 
 Para ello, se utilizó un gráfico lineal que muestra el número de alumnos ingresados por año, con la posibilidad de filtrar por género. Además, se desarrolló un gráfico circular para mostrar cuáles son los niveles con más ingresos, y se realizó un análisis más específico para identificar los programas educativos más concurridos por nivel. 
 Por último, se utilizó un visualizador de datos como Tableau o Power BI, para facilitar la comprensión de la información y así llegar a conclusiones significativas. Se espera que este proceso de análisis, permita identificar tendencias clave y objetivos estratégicos.
@@ -58,11 +58,11 @@ Dentro de este nivel, se destacan varios programas académicos, siendo el más s
 IMAGEN
 IMAGEN
 Este gráfico de barras resalta los cinco programas educativos con mayor demanda en la institución.
-1.     Ingeniero Agrónomo Especialista en Parasitología Agrícola: con una matrícula de 8,025 estudiantes.
-2.     Ingeniería Agroindustrial: con 7,853 estudiantes.
-3.      Ingeniero Agrónomo Especialista en Fitotecnia: con 6,913 estudiantes.
-4.      Ingeniero en Irrigación: con 4,975 estudiantes.
-5.      Ingeniero Mecánico Agrícola: con 3,354 estudiantes.
+1.  Ingeniero Agrónomo Especialista en Parasitología Agrícola: con una matrícula de 8,025 estudiantes.
+2.  Ingeniería Agroindustrial: con 7,853 estudiantes.
+3.  Ingeniero Agrónomo Especialista en Fitotecnia: con 6,913 estudiantes.
+4.  Ingeniero en Irrigación: con 4,975 estudiantes.
+5.  Ingeniero Mecánico Agrícola: con 3,354 estudiantes.
 Estos cinco programas concentran gran parte de la demanda estudiantil, lo que evidencia la inclinación de los estudiantes hacia carreras relacionadas con la agronomía y las ingenierías especializadas en el sector agrícola. La sede de Chapingo se posiciona como un núcleo importante de formación académica en estas áreas, atendiendo a un gran número de estudiantes y fortaleciendo la oferta educativa de la institución.
 - Mapa:Sede
 Los gráficos visuales nos muestran que la unidad académica con el mayor ingreso es el Centro de Educación Continua, ubicado en la sede de Chapingo, con un 91.16% de los ingresos. Esta información se puede corroborar en la siguiente tabla, que presenta los diferentes porcentajes de ingreso de las diversas sedes de la universidad, destacando que Chapingo es la que registra el mayor porcentaje.
