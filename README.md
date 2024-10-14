@@ -61,7 +61,8 @@ Este gráfico de barras permite realizar una selección por nivel y programa edu
 Dentro de este nivel, se destacan varios programas académicos, siendo el más solicitado el de Ingeniero Agrónomo Especialista en Parasitología Agrícola, seguido por el programa de Ingeniería Agroindustrial,en el resto de los programas se observa una gran dispersión por parte del alumnado. 
 <img width="1055" alt="Captura de pantalla 2024-10-13 a la(s) 9 30 29 p m" src="https://github.com/user-attachments/assets/90340f06-e6e9-4882-a501-3c97d151b810">
 
-<img width="815" alt="Captura de pantalla 2024-10-12 a la(s) 9 17 23 a m" src="https://github.com/user-attachments/assets/b3e936ba-cf75-4575-9cf9-28868694fdd7">
+<img width="1196" alt="Captura de pantalla 2024-10-12 a la(s) 9 17 36 a m" src="https://github.com/user-attachments/assets/f5afe8c7-b3f2-4b76-8d79-944492688a02">
+
 
 Este gráfico de barras resalta los cinco programas educativos con mayor demanda en la institución.
 1.  Ingeniero Agrónomo Especialista en Parasitología Agrícola: con una matrícula de 8,025 estudiantes.
