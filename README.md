@@ -19,7 +19,8 @@ Por último, en el campo de nivel educativo, fueron reclasificados los datos de 
 
 ## 3.- Análisis exploratorio de datos.  
 - El análisis exploratorio de la edad de los alumnos fue realizado utilizando R, con el objetivo de comprender la distribución de esta variable en el conjunto de datos y detectar posibles patrones, tendencias y anomalías que pudieran influir en el comportamiento general de la muestra. 
-IMAGEN
+<img width="593" alt="Captura de pantalla 2024-10-13 a la(s) 9 27 23 p m" src="https://github.com/user-attachments/assets/c3b0bd4b-2733-468b-a732-62e5ccb9b56f">
+
 Los resultados obtenidos indican que la media de la edad de los estudiantes es de 19 años, mientras que la mediana es de 19 años, lo cual sugiere que la mayoría de los alumnos presentan edades cercanas a este valor los cuales se encuentran concentrados en el nivel educativo: Media Superior y Licenciatura.
 La desviación estándar de 4.496006 refleja una dispersión moderada en la edad, indicando que las edades de los estudiantes no están significativamente dispersas respecto al promedio. Además, el resumen de los datos muestra que la edad mínima es de 0 años y la máxima de 73 años, mientras que el primer cuartil es de 17 años y el tercer cuartil es de 21 años, proporcionando una visión más detallada de la distribución de edades en el grupo analizado.
 La presencia del valor mínimo de 0 se debe, en gran medida, a un error en la etapa de limpieza de datos, más que a un problema propio de R. En este caso, el valor de 0 probablemente provino de una fila que se omitió eliminar en Excel, y R simplemente identificó y reportó dicho valor como el mínimo.
@@ -45,18 +46,23 @@ Por último, se utilizó un visualizador de datos como Tableau o Power BI, para 
 ## 5.-Resultados:
 - Gráfico lineal: Alumnos matriculados por año:
 En este gráfico se puede visualizar que al contrario de lo que se pensaba, el número de alumnos fue en incremento gradual desde el año 2006 hasta el año 2021, por lo que no se vio afectado por el inicio de la pandemia en el año 2020-2021, años en los que se registró la mayor cantidad de alumnos matriculados (10,807 y 11.199) respectivamente. Con un promedio de 9,277 alumnos inscritos.
-IMAGEN
+<img width="875" alt="Captura de pantalla 2024-10-11 a la(s) 12 18 59 p m" src="https://github.com/user-attachments/assets/c909ffa6-714a-4afb-ac57-12b2178edcd5">
+
 Por lo que podemos observar que incluso no hubo un cambio significativo al tener un evento adverso como lo fue la pandemia.
 Gráfico circular: Número de ingresos por niveles:
 En este segundo gráfico se puede observar el número de ingresos en nuestros distintos niveles académicos.
 Licenciatura (51.8%): Es la categoría más representativa, lo que sugiere que más de la mitad de los alumnos inscritos están en programas de licenciatura. Esto podría indicar una fuerte preferencia o necesidad de obtener este grado académico en la población estudiantil.
 Medio Superior (42.5%): Este grupo también es significativo, indicando que una gran parte de los estudiantes está en el nivel de preparatoria o bachillerato.
 Para los niveles de Maestría (3.7%) y Doctorado (2.1%) sugiere que estos niveles académicos aún no son una opción popular o accesible para muchos. Los programas de maestría y doctorado suelen requerir más tiempo y recursos, lo que puede limitar la cantidad de estudiantes que se inscriben.
+<img width="477" alt="Captura de pantalla 2024-10-13 a la(s) 9 29 47 p m" src="https://github.com/user-attachments/assets/d63e281e-afb0-418e-b7d9-37861353eb5e">
+
 - Gráfico de barras: Programa educativo.
 Este gráfico de barras permite realizar una selección por nivel y programa educativo, proporcionando una visión detallada de la demanda de cada uno. Al analizar los programas con mayor número de estudiantes, se observa que el nivel educativo con la mayor demanda es la licenciatura. 
 Dentro de este nivel, se destacan varios programas académicos, siendo el más solicitado el de Ingeniero Agrónomo Especialista en Parasitología Agrícola, seguido por el programa de Ingeniería Agroindustrial,en el resto de los programas se observa una gran dispersión por parte del alumnado. 
-IMAGEN
-IMAGEN
+<img width="1055" alt="Captura de pantalla 2024-10-13 a la(s) 9 30 29 p m" src="https://github.com/user-attachments/assets/90340f06-e6e9-4882-a501-3c97d151b810">
+
+<img width="815" alt="Captura de pantalla 2024-10-12 a la(s) 9 17 23 a m" src="https://github.com/user-attachments/assets/b3e936ba-cf75-4575-9cf9-28868694fdd7">
+
 Este gráfico de barras resalta los cinco programas educativos con mayor demanda en la institución.
 1.  Ingeniero Agrónomo Especialista en Parasitología Agrícola: con una matrícula de 8,025 estudiantes.
 2.  Ingeniería Agroindustrial: con 7,853 estudiantes.
@@ -66,12 +72,16 @@ Este gráfico de barras resalta los cinco programas educativos con mayor demanda
 Estos cinco programas concentran gran parte de la demanda estudiantil, lo que evidencia la inclinación de los estudiantes hacia carreras relacionadas con la agronomía y las ingenierías especializadas en el sector agrícola. La sede de Chapingo se posiciona como un núcleo importante de formación académica en estas áreas, atendiendo a un gran número de estudiantes y fortaleciendo la oferta educativa de la institución.
 - Mapa:Sede
 Los gráficos visuales nos muestran que la unidad académica con el mayor ingreso es el Centro de Educación Continua, ubicado en la sede de Chapingo, con un 91.16% de los ingresos. Esta información se puede corroborar en la siguiente tabla, que presenta los diferentes porcentajes de ingreso de las diversas sedes de la universidad, destacando que Chapingo es la que registra el mayor porcentaje.
-IMAGEN
-IMAGEN
-IMAGEN
+![table (1)](https://github.com/user-attachments/assets/9ddadd57-61de-4e6d-af42-e3f67402b201)
+
+![Map (1)](https://github.com/user-attachments/assets/ad291d37-15f6-4af5-bedc-216a8a95934d)
+
+![Captura de pantalla 2024-10-13 200359](https://github.com/user-attachments/assets/7f46ee4e-e2d1-48ab-9901-db2b4b122bd7)
+
 - Gráfico lineal con predicción: # Alumnos por Año
 Finalmente, se ha elaborado un gráfico de líneas con predicción que muestra la suma de alumnos en función del año, abarcando el período de 2005 a 2030. En este gráfico, se puede observar un incremento constante en la matrícula cada año, salvo en 2008 y 2015, donde se registraron disminuciones.
 Dado el aumento en las matrículas, decidimos realizar una predicción para los próximos 10 años con el fin de analizar el comportamiento del número de matrículas. La tendencia proyectada es optimista, ya que, a pesar de ciertos factores que podrían haber afectado los ingresos, estos se mantuvieron estables con una tendencia al alza. Además, el periodo de COVID no tuvo un impacto significativo en el número de matrículas, como se ilustra en el gráfico.
+![grafico de prediccion](https://github.com/user-attachments/assets/e920321f-7a4e-4c64-9e1d-9566702f4075)
 
 ## 6.- Interpretación y Conclusiones.
 Con respecto a nuestra primera hipótesis se descarta la idea de que el fenómeno COVID no fue significativo para los ingresos, por el contrario, fueron los años en los que más matriculados hubo.
