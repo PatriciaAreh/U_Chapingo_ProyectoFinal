@@ -42,7 +42,7 @@ En seguida, se realizó un análisis exploratorio de los datos utilizando R, que
 Para ello, se utilizó un gráfico lineal que muestra el número de alumnos ingresados por año, con la posibilidad de filtrar por género. Además, se desarrolló un gráfico circular para mostrar cuáles son los niveles con más ingresos, y se realizó un análisis más específico para identificar los programas educativos más concurridos por nivel. 
 Por último, se utilizó un visualizador de datos como Tableau o Power BI, para facilitar la comprensión de la información y así llegar a conclusiones significativas. Se espera que este proceso de análisis, permita identificar tendencias clave y objetivos estratégicos.
 
-##Resultados:
+## 5.-Resultados:
 - Gráfico lineal: Alumnos matriculados por año:
 En este gráfico se puede visualizar que al contrario de lo que se pensaba, el número de alumnos fue en incremento gradual desde el año 2006 hasta el año 2021, por lo que no se vio afectado por el inicio de la pandemia en el año 2020-2021, años en los que se registró la mayor cantidad de alumnos matriculados (10,807 y 11.199) respectivamente. Con un promedio de 9,277 alumnos inscritos.
 IMAGEN
@@ -73,14 +73,14 @@ IMAGEN
 Finalmente, se ha elaborado un gráfico de líneas con predicción que muestra la suma de alumnos en función del año, abarcando el período de 2005 a 2030. En este gráfico, se puede observar un incremento constante en la matrícula cada año, salvo en 2008 y 2015, donde se registraron disminuciones.
 Dado el aumento en las matrículas, decidimos realizar una predicción para los próximos 10 años con el fin de analizar el comportamiento del número de matrículas. La tendencia proyectada es optimista, ya que, a pesar de ciertos factores que podrían haber afectado los ingresos, estos se mantuvieron estables con una tendencia al alza. Además, el periodo de COVID no tuvo un impacto significativo en el número de matrículas, como se ilustra en el gráfico.
 
-##5.- Interpretación y Conclusiones.
+## 6.- Interpretación y Conclusiones.
 Con respecto a nuestra primera hipótesis se descarta la idea de que el fenómeno COVID no fue significativo para los ingresos, por el contrario, fueron los años en los que más matriculados hubo.
 Con respecto a la demanda de educación la Licenciatura es el nivel académico más demandado, lo que refleja una preferencia por la formación universitaria en la población estudiantil. Dentro de este nivel, el programa de Ingeniero Agrónomo Especialista se destaca como el más popular.
 Se mantiene un crecimiento sostenido en  la matrícula de alumnos ha mostrado un incremento constante a lo largo de los años, con excepciones en 2008 y 2015. Esto sugiere una tendencia positiva en la captación de estudiantes, lo que puede ser indicativo de la calidad y relevancia de la oferta educativa.
 Las proyecciones a 10 años indican un comportamiento ascendente en los ingresos, lo que es alentador. A pesar de fenómenos adversos, como la pandemia de COVID-19, la matrícula no se vio afectada de manera significativa lo que refuerza la capacidad de adaptación de la institución 
 En resumen, los datos sugieren un panorama favorable para la institución en términos de matrícula y demanda educativa.
 
-##6.-Recomendaciones para análisis futuros 
+## 7.-Recomendaciones para análisis futuros 
 La baja representación en niveles de posgrado, como maestrías y doctorados, puede ser un área de oportunidad para la institución. Fomentar estos programas podría diversificar la oferta académica y atraer a más estudiantes interesados en formación avanzada.
 Para incrementar el interés en los programas de nivel avanzado, la universidad podría diseñar campañas de promoción más intensivas y focalizadas, utilizando tanto medios tradicionales como digitales. Estas campañas podrían destacar los beneficios de obtener un grado de posgrado, como mayores oportunidades de investigación, desarrollo de habilidades especializadas, y el acceso a una red de profesionales y expertos en el área agrícola.
 
